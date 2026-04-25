@@ -87,9 +87,6 @@ def main():
 
         print(f"\n**Answer:** {result.output}\n")
         print("---\n")
-        if i < len(questions):
-            print("Waiting 60 seconds before next question...")
-            time.sleep(60)
 
 
 if __name__ == "__main__":
