@@ -33,3 +33,25 @@ The agent will work through each question in `math_questions.md` and print the R
 - `products.json` - product catalog with prices
 - `math_questions.md` - the questions the agent solves
 - `.env.example` - template for your API key
+
+## Project Structure
+
+```
+hw4-RofiahAkanni/
+├─ README.md              (includes the video link)
+├─ agent.py               (with product_lookup implemented)
+├─ calculator.py
+├─ products.json
+├─ math_questions.md
+├─ pyproject.toml
+├─ .env.example
+└─ .gitignore
+```
+
+---
+
+## Walkthrough Video
+
+[Watch the walkthrough on YouTube](https://youtu.be/9M9nrIjpEHQ)
+
+---
